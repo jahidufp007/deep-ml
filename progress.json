@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T05:09:36.889Z",
+  "generated_at": "2026-11-03T05:09:38.721Z",
   "items": {
     "problem:4": {
       "kind": "problem",
@@ -13,6 +13,58 @@
       "last_pushed_at": "2026-11-02T15:47:53.454Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-11-03T04:09:53.225Z",
+      "last_pushed_at": "2026-11-03T04:09:53.225Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-11-03T04:32:03.766Z",
+      "last_pushed_at": "2026-11-03T04:32:03.766Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-11-03T04:53:28.174Z",
+      "last_pushed_at": "2026-11-03T04:53:28.174Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-11-03T05:07:49.484Z",
+      "last_pushed_at": "2026-11-03T05:07:49.484Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
